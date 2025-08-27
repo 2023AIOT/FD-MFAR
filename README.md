@@ -1,0 +1,1 @@
+FD-MFAR: An Adaptive Routing Algorithm for Wireless Sensor Networks Based on Fuzzy Decision and Multi-Feature Collaborative Optimization
